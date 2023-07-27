@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoApi</name>
+    </assembly>
+    <members>
+        <member name="M:TodoApi.Controllers.TodosController.GetItems">
+            <summary>
+            Returns all user's todo items.
+            </summary>
+            <returns></returns>
+            <remarks>Awesomeness!</remarks>
+            <response code="200">Product created</response>
+            <response code="400">Product has missing/invalid values</response>
+            <response code="500">Oops! Can't create your product right now</response>
+        </member>
+        <member name="T:TodoApi.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.UserAdded">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.UserAdded.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.UserAdded.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.UserAdded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.AddIdentityTables">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddIdentityTables.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddIdentityTables.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddIdentityTables.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.AddTodoForeignKey">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddTodoForeignKey.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddTodoForeignKey.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddTodoForeignKey.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.AddUserApiKeysTable">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddUserApiKeysTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddUserApiKeysTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.AddUserApiKeysTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.RenamedToTodoItem">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.RenamedToTodoItem.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.RenamedToTodoItem.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.RenamedToTodoItem.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.IsDeletedAdded">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.IsDeletedAdded.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.IsDeletedAdded.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.IsDeletedAdded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
