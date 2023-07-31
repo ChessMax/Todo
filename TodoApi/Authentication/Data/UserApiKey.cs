@@ -14,9 +14,9 @@ public class UserApiKey
     [Required]
     public required string Value { get; set; }
 
-    [JsonIgnore] [Required] 
+    [JsonIgnore]  
     public string UserId { get; set; } = null!;
     
     [JsonIgnore]
-    public required TodoUser User { get; set; }
+    public TodoUser? User { get; init; }
 }

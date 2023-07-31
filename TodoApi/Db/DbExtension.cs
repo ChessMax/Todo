@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TodoApi.Db;
 
-namespace TodoApi;
+namespace TodoApi.Db;
 
 public static class DbExtension
 {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TodoApi;
+namespace TodoApi.Authentication.Data;
 
 public class AuthenticationRequest
 {

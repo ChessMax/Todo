@@ -1,5 +1,5 @@
-using TodoApi;
 using TodoApi.Authentification;
+using TodoApi.Db;
 using TodoApi.Swagger.Extensions;
 using TodoApi.User;
 using TodoApi.Versioning;
