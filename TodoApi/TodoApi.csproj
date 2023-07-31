@@ -32,4 +32,8 @@
         <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.32.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".cert\todoapi.pfx" />
+    </ItemGroup>
+
 </Project>
