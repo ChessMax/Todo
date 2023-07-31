@@ -13,6 +13,7 @@
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
       <NoWarn>1701;1702;IL2121;1591</NoWarn>
+      <DocumentationFile>bin\Release\TodoApi.xml</DocumentationFile>
     </PropertyGroup>
 
     <ItemGroup>
