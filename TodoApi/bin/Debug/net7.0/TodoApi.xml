@@ -98,5 +98,29 @@
         <member name="M:TodoApi.Migrations.IsDeletedAdded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:TodoApi.Migrations.Afterrefactoring">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.Afterrefactoring.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.Afterrefactoring.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.Afterrefactoring.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TodoApi.Migrations.OptionalReferenceNavigator">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.OptionalReferenceNavigator.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.OptionalReferenceNavigator.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TodoApi.Migrations.OptionalReferenceNavigator.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>
