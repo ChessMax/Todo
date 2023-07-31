@@ -78,7 +78,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # ===============
-obj/
-bin/
 
 /.idea/.idea.Todo/Docker/docker-compose.generated.override.yml
