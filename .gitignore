@@ -80,3 +80,5 @@ fabric.properties
 # ===============
 obj/
 bin/
+
+/.idea/.idea.Todo/Docker/docker-compose.generated.override.yml
